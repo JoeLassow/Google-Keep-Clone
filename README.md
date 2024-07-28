@@ -1,4 +1,7 @@
-# Google-Keep-Clone
+# Google Keep Clone
+
+Google Keep is a note taking tool allowing users to make and delete their notes.
+
 This app takes the react app I learnt in Angela Yu's web development course on Udemy and goes further. 
 Orignally this app was just on the frontend to learn react  but I made some of my own tweaks to the front end and made it persistent by adding a whole backend and database. I used a variant of the MERN stack but used postgres instead of Mongo DB.
 
